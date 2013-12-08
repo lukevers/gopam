@@ -1,6 +1,6 @@
 # gopam
 
-Originally from [](https://github.com/krockot/gopam), this didn't compile and I was trying to get it to compile. It compiles now! As of it's current state, I haven't even looked at how gopam does what it does, so I have no clue if it's correctly implemented or not. If it's not, don't shoot the compiler-er!
+Originally from [krockot/gopam](https://github.com/krockot/gopam), this didn't compile and I was trying to get it to compile. It compiles now! As of it's current state, I haven't even looked at how gopam does what it does, so I have no clue if it's correctly implemented or not. If it's not, don't shoot the compiler-er!
 
 Original README file below:
 
